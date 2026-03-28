@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="My_Test_1/My_Test_1.csproj" Id="dd453c38-ed89-4763-9e2b-c2ea08273bea">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
